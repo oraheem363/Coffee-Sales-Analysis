@@ -47,11 +47,11 @@ Set realistic targets:
 Base 2025 projections on actual performance, not prior year, to make accurate budgeting and planning decisions
 
 # Repository Files:
-[3-Project-Coffee_Sales_Project Olawale RAHEEEM.xlsx](https://github.com/user-attachments/files/22985507/3-Project-Coffee_Sales_Project.Olawale.RAHEEEM.xlsx)
+[RAHEEM Olawale-Coffee_Sales_Project_Corrections.xlsx](https://github.com/user-attachments/files/22985581/RAHEEM.Olawale-Coffee_Sales_Project_Corrections.xlsx)
 [Coffee Sales Analysis  Dashboard_Raheem.pdf](https://github.com/user-attachments/files/22985438/Coffee.Sales.Analysis.Dashboard_Raheem.pdf)
 
-# Author: Raheem
-Email:oraheem363 
+# Author: Olawale Raheem
+Email: raheemolawale01@gmail.com 
 GithHub:https://github.com/oraheem363
 
 
