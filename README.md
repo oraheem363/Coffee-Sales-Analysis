@@ -51,8 +51,8 @@ Base 2025 projections on actual performance, not prior year, to make accurate bu
 [Coffee Sales Analysis  Dashboard_Raheem.pdf](https://github.com/user-attachments/files/22985438/Coffee.Sales.Analysis.Dashboard_Raheem.pdf)
 
 # Author: Raheem
-Email: oraheem363 
-GithHub:
+Email:oraheem363 
+GithHub:https://github.com/oraheem363
 
 
 
