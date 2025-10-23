@@ -1,5 +1,7 @@
 # Project Topic: Coffee-Sales-Analysis
 
+<img width="783" height="452" alt="Image" src="https://github.com/user-attachments/assets/0d0dd7a9-93ca-41ae-befc-0846a8889f1b" />
+
 # Project Overview:
 The Coffee Sales Analysis Project successfully explored sales data to understand the performance and dynamics of a coffee business across different time periods and product categoriesto uncover key business insights and opportunities for growth. 
 
