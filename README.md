@@ -20,18 +20,10 @@ Americano ($14,650.26) contributed significantly, highlighting continued demand 
 Hot Chocolate ($9,933.46) and Cocoa ($8,521.16) performed moderately well, showing that non-coffee beverages remain an important revenue source for diversification.
 Cortado ($7,384.86) and Espresso ($2,690.28) produced the lowest revenues, reflecting their niche customer base and smaller serving sizes.
 
-# Dashboard Preview:
-<img width="1075" height="523" alt="Coffee Sales Dashboard_Raheem" src="https://github.com/user-attachments/assets/39c89bda-2e59-480e-99ab-bd211120b88d" />
-
 # Dataset:
 Source- Coffee-Sales Data (Excel format)
 Field- hour_of_day,cash_type,money,coffee_name,Time_of_Day,
 Weekday,Month_name,Weekdaysort,	Monthsort,Date,Time,
-
-# Dashboard Features:
-Sum of Money by Weekday,Sales by Time of the Day,Monthly Sales,
-Yearly Sales of Coffee,Demand for Coffee,Sum of Money by Coffee name
-Slicers for flexible filtering.
 
 # Recommendations:
 Investigate the drop:
